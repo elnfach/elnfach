@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left">Hi there, I'm <a href="https://github.com/elnfach" target="_blank">elnfach</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**elnfach/elnfach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I have stolen this gif](https://c.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a beginner and have recently become familiar with programming and<br/>
+I am currently writing my code in C++.
+
+```cpp
+int main() {
+    std::cout << "Hello World!\n";
+    
+    return 0;
+}
+```
+[![GitHub Snapi](https://img.shields.io/github/followers/Thjaly?label=follow&style=social)](https://github.com/elnfach)
