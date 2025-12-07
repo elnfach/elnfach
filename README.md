@@ -5,14 +5,12 @@
 
 ## About me
 
-I am a beginner and have recently become familiar with programming and<br/>
-I am currently writing my code in C++.
+I'm a beginner and have recently started learning programming, and
+I'm currently studying Rust.
 
-```cpp
-int main() {
-    std::cout << "Hello World!\n";
-    
-    return 0;
+```rust
+fn main() {
+    println!("Hello world!");
 }
 ```
 [![GitHub Snapi](https://img.shields.io/github/followers/Thjaly?label=follow&style=social)](https://github.com/elnfach)
